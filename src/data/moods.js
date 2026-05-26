@@ -236,7 +236,7 @@ const rawMoods = [
   {
     id: "romantic",
     emoji: "❤️",
-    title: "Romantik istiyorum",
+    title: "Romantizm istiyorum",
     tone: "rose",
     description: "Bugün ilgi, sevgi, güzel ortam ve tatlı bir date istiyorum.",
     plans: [
